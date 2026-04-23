@@ -57,6 +57,8 @@ pip install -r requirements.txt
 
 We are actively looking to expand this project into a more dynamic and interactive platform:
 
+- **🌐 Web Interface:** Build a sleek Streamlit or Next.js frontend to replace the CLI.
+- 
 ### 🌟 Real-Time Live Monitoring
 The next evolution involves moving from batch processing to **Real-Time Streaming**. By implementing X's filtered streams, we can monitor "feelings" on a certain topic as they happen, second by second.
 
